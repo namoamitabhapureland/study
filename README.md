@@ -1,5 +1,8 @@
-# 🌐 般若語言法界 清淨學習平台
-
+[![GitHub Pages](https://img.shields.io/badge/網站-般若語言法界-4A7043?style=for-the-badge)](https://namoamitabhapureland.github.io/study/)
+[![PWA](https://img.shields.io/badge/PWA-Ready-4285F4?style=for-the-badge)](https://namoamitabhapureland.github.io/study/)
+[![Free](https://img.shields.io/badge/完全免費-100%25-00C853?style=for-the-badge)](https://namoamitabhapureland.github.io/study/)
+[![No Ads](https://img.shields.io/badge/無廣告-純淨-FF9800?style=for-the-badge)](https://namoamitabhapureland.github.io/study/)
+# 般若語言法界 清淨學習平台
 清淨學習 語言學習 單字記憶 高中模考 托福 多益 英文學習 俚語英文 學習 無廣告免費學習平台 PWA 離線學習 清淨教育 般若智慧 學習工具
 
 ---
